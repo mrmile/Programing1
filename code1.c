@@ -1,1 +1,10 @@
-//empty test file
+//Test C file
+
+#include <stdio.h>
+
+int main()
+{
+	printf("This is just a test");
+	
+	return 0;
+}
